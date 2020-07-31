@@ -1,4 +1,4 @@
-# Database Planning
+# Data Planning
 
 ## Proposed Division of Data
 We will each be 100% responsible for the data we need in our modules.
