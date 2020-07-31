@@ -9,12 +9,12 @@
 ## Data Dependencies
 
 ### Tammy
-* Store Logo; image; StoreDB
-* Store name; string; StoreDB
-* Total # of items in store; number; StoreDB
-* Total Sales; number; StoreDB
-* On Etsy Since; number; StoreDB
-* Based In; stringl StoreDB
+* Store Logo; image; etsyStores
+* Store name; string; etsyStores
+* Total # of items in store; number; etsyStores
+* Total Sales; number; etsyStores
+* On Etsy Since; number; etsyStores
+* Based In; stringl etsyStores
 * Item Picture; image; ??
 * Item Name; string; ??
 * Item Price; number; ??
@@ -26,8 +26,8 @@
 ## Databases
 
 ### Etsy Stores DB - Tammy
-* DB: Mongo
-* Collection: etsyStores
+* DB: etsyStores (mongo)
+* Collection: stores
 * Document fields:
   * storeLogo; image
   * storeName; string
