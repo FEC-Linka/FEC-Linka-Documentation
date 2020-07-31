@@ -14,7 +14,7 @@
 * Total # of items in store; number; etsyStores
 * Total Sales; number; etsyStores
 * On Etsy Since; number; etsyStores
-* Based In; stringl etsyStores
+* Based In; string etsyStores
 * Item Picture; image; ??
 * Item Name; string; ??
 * Item Price; number; ??
