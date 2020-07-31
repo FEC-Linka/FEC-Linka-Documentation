@@ -1,10 +1,7 @@
 # Database Planning
 
 ## Proposed Division of Data
-
-* Data related to each individual item (pictures, description, price, discount, shipping costs, etc.).
-* Data related to reviews (pictures from users, ratings, comments, etc.)
-* Data related to the store (Store logo, store address, the items the store carries, current inventory, date they joined Etsy, owner name etc.)
+We will each be 100% responsible for the data we need in our modules.
 
 ## Data Dependencies
 
@@ -15,13 +12,13 @@
 * Total Sales; number; etsyStores
 * On Etsy Since; number; etsyStores
 * Based In; string etsyStores
-* Item Picture; image; ??
-* Item Name; string; ??
-* Item Price; number; ??
-* Free Shipping; bool; ??
-* Free shipping eligible; bool; ??
-* Sale percentage; number; ??
-* Available # of items; number; ??
+* Item Picture; image; etsyStores
+* Item Name; string; etsyStores
+* Item Price; number; etsyStores
+* Free Shipping; bool; etsyStores
+* Free shipping eligible; bool; etsyStores
+* Sale percentage; number; etsyStores
+* Available # of items; number; etsyStores
 
 ## Databases
 
@@ -35,3 +32,11 @@
   * totalSales; number
   * onEtsySince; number
   * basedIn; string
+  * item:
+    * itemPicture; image
+    * itemName; string
+    * itemPrice; number
+    * itemStock; number
+    * freeShipping; bool
+    * freeShipping eligible; bool
+    * salePercentage; number
