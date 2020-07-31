@@ -8,7 +8,7 @@
 
 ## Data Dependencies
 
-### Tammy
+### Tammy's data dependencies
 * Store Logo; image; etsyStores
 * Store name; string; etsyStores
 * Total # of items in store; number; etsyStores
