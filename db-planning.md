@@ -25,9 +25,9 @@
 
 ## Databases
 
-### Store DB - Tammy
+### Etsy Stores DB - Tammy
 * DB: Mongo
-* Collections: 1
+* Collection: etsyStores
 * Document fields:
   * storeLogo; image
   * storeName; string
@@ -35,4 +35,3 @@
   * totalSales; number
   * onEtsySince; number
   * basedIn; string
-
