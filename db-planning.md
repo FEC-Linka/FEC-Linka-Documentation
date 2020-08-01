@@ -33,10 +33,11 @@ We will each be 100% responsible for the data we need in our modules.
   * onEtsySince; number
   * basedIn; string
   * item:
+    * itemId; number
     * itemPicture; image
     * itemName; string
     * itemPrice; number
     * itemStock; number
     * freeShipping; bool
-    * freeShipping eligible; bool
+    * freeShippingEligible; bool
     * salePercentage; number
