@@ -5,7 +5,7 @@ We will each be 100% responsible for the data we need in our modules.
 
 ## Data Dependencies
 
-### Tammy's data dependencies
+### Tammy's data dependencies for 'More From This Store' module
 * Store Logo; image; etsyStores
 * Store name; string; etsyStores
 * Total # of items in store; number; etsyStores
