@@ -1,4 +1,4 @@
 # Port Usage
 
 * Val - Port 5000
-* Tammy - Port 7100
+* Tammy - Ports 7100, 7101
