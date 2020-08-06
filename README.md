@@ -12,6 +12,6 @@ The Project Wide Documents folder contains information and decisions that affect
 For questions regarding particular modules/design decisions contact the following:
 
 More From This Store - Tammy
-You Might Also Like - Tammy
+Shipping - Tammy
 Reviews - Rita
 
